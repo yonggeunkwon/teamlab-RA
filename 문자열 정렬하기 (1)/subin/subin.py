@@ -15,8 +15,8 @@ def solution(my_string):
     answer = sorted(num)  
     return answer
 
-string = "hi12392"
+string = "hi12392" 
 
-#solution() -> 괄호 속 매개변수my_string에 string을 넣고 돌린 결과값..
+#solution() -> 괄호 속 매개변수my_string에 string을 넣고 돌린 결과값..^^ 
 result = solution(string)
 print(result)
