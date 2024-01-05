@@ -8,7 +8,7 @@ def solution(my_string):
         else:                   # 생략가능
             None
     answer = sorted(my_list)     #list.sort()는 기존의 리스트를 정렬함 & sorted(list)는 정렬된 리스트를 새로이 만듦
-    # print(answer)              
+    # print(answer)              # digh
     return answer
 
 ex = 'ag9G254'
