@@ -11,6 +11,8 @@ def solution(my_string):
     # print(answer)              # digh
     return answer
 
+
+
 ex = 'ag9G254'
 result = solution(ex)
 print(result)
