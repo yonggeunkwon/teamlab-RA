@@ -15,6 +15,7 @@ for f in range(len(new_list)):
         
 print(result_list)
 
+
 # for calculate_num in new_list:
 #     calculate = calculate_num[0].replace(" ","")
 #     print(calculate)

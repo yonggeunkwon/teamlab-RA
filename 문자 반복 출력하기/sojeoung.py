@@ -6,6 +6,7 @@ for i in my_string:
     new_string+=i*n
 print(new_string)
 
+
 # result_list=[]
 # for i in my_string:
 #     result_list.append(i*n)
