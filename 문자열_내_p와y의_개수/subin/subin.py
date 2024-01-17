@@ -1,4 +1,4 @@
-def solution(s) :
+def solution(s) : ##ㄷㄷㅠㅠ
 
     lower_s = s.lower()
     print(lower_s)
