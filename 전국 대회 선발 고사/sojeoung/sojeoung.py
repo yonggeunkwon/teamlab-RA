@@ -1,4 +1,4 @@
-### 전국 대회 선발 고사
+# 전국 대회 선발 고사
 
 rank = [3,7,2,5,4,6,1]
 attendance = [False, True, True, True, True, False, False]
